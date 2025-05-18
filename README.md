@@ -6,8 +6,8 @@ This project implements a simple decentralized cloud file sharing system using F
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/anushreejha/BlockShareCloud
-cd BlockShareCloud
+git clone https://github.com/aneeshkp246/ipfs-file-storage-system
+cd ipfs-file-storage-system
 ```
 ### 2. Create a virtual environment and activate it:
 ```bash
